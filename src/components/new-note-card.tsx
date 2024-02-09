@@ -112,7 +112,7 @@ export function NewNoteCard({ onNoteCreated }: NewNoteCardProps) {
               </span>
 
               {shoudShowOnBoarding ? (
-                <p className="text-lg md:text-sm leading-6 text-slate-400">
+                <p className="text-lg md:text-sm leading-7 md:leading-6 text-slate-400">
                   Comece{" "}
                   <button
                     type="button" 
